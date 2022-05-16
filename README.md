@@ -2,6 +2,7 @@
 
 ## Screenshot
 <img src="https://user-images.githubusercontent.com/11568406/168600381-88d8b388-06f1-46d2-8456-2440e5697a68.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/11568406/168602386-b166b25f-fb6a-4138-b57e-80eb678afafa.png" width=30% height=30%>
 
 
 ## License
