@@ -2,7 +2,6 @@
 
 
 ## License
----
 
 [Anti-996 License](LICENSE)
 
@@ -13,7 +12,6 @@
  - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
 
 ## 声明
----
 
 本项目仅供学习交流，严禁用作商业行为，特别禁止黄牛加价代抢等！
 
