@@ -1,7 +1,7 @@
 # hema_helper
 
 ## Screenshot
-![Screenshot](https://user-images.githubusercontent.com/11568406/168600381-88d8b388-06f1-46d2-8456-2440e5697a68.png)
+![Screenshot](https://user-images.githubusercontent.com/11568406/168600381-88d8b388-06f1-46d2-8456-2440e5697a68.png | width=200)
 
 
 ## License
