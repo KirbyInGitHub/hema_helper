@@ -8,7 +8,7 @@
    - 支持设置自定义延迟
 - 支持异常响铃提醒
 - 支持下单成功响铃提醒
-- 自动过淘宝滑块验证
+- 支持自动过淘宝滑块验证
 
 ## Screenshot
 <img src="https://user-images.githubusercontent.com/11568406/168600381-88d8b388-06f1-46d2-8456-2440e5697a68.png" width=30% height=30%>
